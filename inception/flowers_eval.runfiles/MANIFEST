@@ -1,0 +1,15 @@
+inception/inception/__init__.py 
+inception/inception/dataset.py /Users/fay/Downloads/new_f/models/inception/inception/dataset.py
+inception/inception/flowers_data.py /Users/fay/Downloads/new_f/models/inception/inception/flowers_data.py
+inception/inception/flowers_eval /private/var/tmp/_bazel_fay/52496cedfb4a48c37df5e73af6f59b9a/execroot/inception/bazel-out/local-fastbuild/bin/inception/flowers_eval
+inception/inception/flowers_eval.py /Users/fay/Downloads/new_f/models/inception/inception/flowers_eval.py
+inception/inception/image_processing.py /Users/fay/Downloads/new_f/models/inception/inception/image_processing.py
+inception/inception/inception_eval.py /Users/fay/Downloads/new_f/models/inception/inception/inception_eval.py
+inception/inception/inception_model.py /Users/fay/Downloads/new_f/models/inception/inception/inception_model.py
+inception/inception/slim/__init__.py 
+inception/inception/slim/inception_model.py /Users/fay/Downloads/new_f/models/inception/inception/slim/inception_model.py
+inception/inception/slim/losses.py /Users/fay/Downloads/new_f/models/inception/inception/slim/losses.py
+inception/inception/slim/ops.py /Users/fay/Downloads/new_f/models/inception/inception/slim/ops.py
+inception/inception/slim/scopes.py /Users/fay/Downloads/new_f/models/inception/inception/slim/scopes.py
+inception/inception/slim/slim.py /Users/fay/Downloads/new_f/models/inception/inception/slim/slim.py
+inception/inception/slim/variables.py /Users/fay/Downloads/new_f/models/inception/inception/slim/variables.py

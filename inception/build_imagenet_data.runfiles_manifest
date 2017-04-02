@@ -1,0 +1,4 @@
+inception/inception/__init__.py 
+inception/inception/build_imagenet_data /private/var/tmp/_bazel_fay/52496cedfb4a48c37df5e73af6f59b9a/execroot/inception/bazel-out/local-fastbuild/bin/inception/build_imagenet_data
+inception/inception/data/__init__.py 
+inception/inception/data/build_imagenet_data.py /Users/fay/Downloads/new_f/models/inception/inception/data/build_imagenet_data.py

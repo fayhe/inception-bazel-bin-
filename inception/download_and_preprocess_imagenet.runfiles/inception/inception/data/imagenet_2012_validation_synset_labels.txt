@@ -1,0 +1,1 @@
+/Users/fay/Downloads/new_f/models/inception/inception/data/imagenet_2012_validation_synset_labels.txt
